@@ -1,0 +1,17 @@
+{
+  "name": "connect-assetmanager-less-handler",
+  "version": "1.0.0",
+  "description": "Less css handler for connect-assetmanager",
+  "author": {
+    "name": "Lawrence Cheung",
+    "email": "lawrence0819@gmail.com"
+  },
+  "main": "lib/handler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lawrence0819/connect-assetmanager-less-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/lawrence0819/connect-assetmanager-less-handler/issues"
+  }
+}
