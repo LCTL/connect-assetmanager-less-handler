@@ -1,6 +1,6 @@
 {
   "name": "connect-assetmanager-less-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Less css handler for connect-assetmanager",
   "author": {
     "name": "Lawrence Cheung",
