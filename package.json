@@ -7,7 +7,7 @@
     "email": "lawrence0819@gmail.com"
   },
   "dependencies": {
-    "less": "*"
+    "less": "1.*"
   },
   "main": "lib/handler.js",
   "repository": {
